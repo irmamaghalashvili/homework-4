@@ -1,0 +1,11 @@
+@media (max-width: 480px) {
+	.bar-div {
+		display: block;
+	}
+	.navigations {
+		display: none;
+	}
+	.header {
+		width: 480px;
+	}
+}
