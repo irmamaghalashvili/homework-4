@@ -1,4 +1,4 @@
-@media (max-width: 830px) {
+@media (max-width: 480px) {
 	.fa-bars {
 		display: block;
 	}
@@ -8,4 +8,18 @@
 	.header {
 		width: 480px;
 	}
+}
+@media (max-width: 768px) {
+    .footer-block01,
+    .footer-block {
+        width: 45%;
+    }
+}
+
+@media (max-width:480px) {
+    .footer-block01,
+    .footer-block {
+        width: 100%;
+    }
+    
 }
