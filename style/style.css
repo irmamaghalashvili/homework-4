@@ -178,7 +178,6 @@
     left: 139px;
     color: white;
     z-index: 10;
-
 }
 .section2::after {
     content: ' ';
@@ -188,7 +187,6 @@
     opacity: 40%;
     display: block;
 }
-
 .section2-divs {
     position: absolute;
     display: flex;
@@ -202,7 +200,7 @@
     z-index: 10;
     flex-wrap: wrap;
 }
-.section2-div {
+.section2-box {
     display: flex;
     align-items: center;
     flex-direction: column;
